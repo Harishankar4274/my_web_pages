@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html>
-<body>
-<h1>Hello Visitor</h1>
+<body style="background-color:#404040;">
+<h1 style="background-color:#bebebe;">Hello Visitor</h1>
 
-
+<p style="color:#f8f8f8;">
+<pre style="color:#f8f8f8;">
 <?php
 
-echo"This is Hari here.<br>";
-echo"This is my new PHP page.<br>";
-echo`ifconfig`;
+print "This is Hari here.<br>";
+print "This is my new PHP page.<br>";
+echo `ifconfig`;
 
 ?>
+</pre>
+</p>
+
 </body>
 </html>
+
