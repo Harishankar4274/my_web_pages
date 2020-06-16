@@ -18,9 +18,9 @@ echo `ifconfig`;
 <h2 style="background-color:#bebebe;">Here I want to share something:</h2>
 
 <p style="color:#f8f8f8;">
-<img src="http://d33azsxjowzyst.cloudfront.net/certificate.jpeg" style="width:100%;">
+<img src="http://d382ky7vymhugt.cloudfront.net/certificate.jpeg" style="width:100%;">
 
-<pre>
+<pre style="color:#f8f8f8;">
 
 My team and I have made a project which secured 3rd position in the project exhibition.
 
