@@ -18,7 +18,6 @@ echo `ifconfig`;
 <h2 style="background-color:#bebebe;">Here I want to share something:</h2>
 
 <p style="color:#f8f8f8;">
-<img src="http://d3a47ixv5xc6vt.cloudfront.net/certificate.jpeg" style="width:100%;">
 
 <pre style="color:#f8f8f8;">
 
